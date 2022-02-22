@@ -1,0 +1,15 @@
+Australian_terrier
+Border_collie
+Chihuahua
+English_setter
+French_bulldog
+German_shepherd
+Labrador_retriever
+Rottweiler
+Shih
+Siberian_husky
+Staffordshire_bullterrier
+Yorkshire_terrier
+beagle
+cocker_spaniel
+golden_retriever
